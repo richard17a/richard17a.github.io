@@ -9,11 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+<!-- [Download cv here](https://richard17a.github.io/files/cv.pdf) -->
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MPhys Physics, University of Oxford, 2017-21
+* Astronomy PhD, University of Cambridge, 2022-present
 
 Work experience
 ======
