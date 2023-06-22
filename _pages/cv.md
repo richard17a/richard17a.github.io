@@ -13,8 +13,8 @@ redirect_from:
 
 Education
 ======
-* MPhys Physics, University of Oxford, 2017-21
-* Astronomy PhD, University of Cambridge, 2022-present
+* PhD Astronomy, University of Cambridge, 2022-present
+* MPhys Physics, University of Oxford, 2017-2021
 
 Work experience
 ======
