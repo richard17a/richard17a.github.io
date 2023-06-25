@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Richard, a PhD student at the [Institute of Astronomy](https://www.ast.cam.ac.uk) in my 1st year (at the time of writing...). I am interested in lots of problems in planetary dynamics and its applications in planetary habitability and post-main sequence planetary systems. I am also interested in Astrobiology and understanding the role of impacts in origins of life scenarios.
+Hello! I am Richard, a 1st year PhD student at the [Institute of Astronomy](https://www.ast.cam.ac.uk). I am interested in planetary dynamics and its applications in planetary habitability and post-main sequence planetary systems. I am also interested in Astrobiology and understanding the role of impacts in origins of life scenarios.
 
 Research groups
 ======
