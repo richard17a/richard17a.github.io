@@ -30,9 +30,10 @@ Work experience
   * Produced a virtual collaborative tool to facilitate various Agile ceremonies in a single application
   * Passed a 4 month intensive technology certification
   
-Skills
+<!-- Skills
+====== -->
+Computing experience
 ======
-* Computing experience
   * Python, C
   * $\LaTeX$
   * SQL
