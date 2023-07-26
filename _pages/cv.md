@@ -14,23 +14,30 @@ redirect_from:
 Education
 ======
 * PhD Astronomy, University of Cambridge, 2022-present
+  * Supervisors: Dr Amy Bonsor, Dr Paul Rimmer
 * MPhys Physics, University of Oxford, 2017-2021
+  * Project title: Gravitational radiation from black hole interactions in Keplerian discs
+  * Supvervisor: Prof. Steven Balbus
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Technology Associate (November 2021 - June 2022)
+  * Morgan Stanley, London UK
+  * Business and Data Analyst in the institutional securities Cross Programmes Change Group (XPG) coordinating testing across the different programmes and developing novel Python tooling
 
-* Fall 2015: Research Assistant
-  * Github University
+* Technology Analyst (August 2021 - November 2021)
+  * Morgan Stanley, London UK
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
+* Computing experience
+  * Python
+  * C
+  * \LaTeX
+  * SQL
+  * HTML, Angular, etc. (basic)
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
