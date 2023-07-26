@@ -10,4 +10,4 @@ location: "Munich, DE"
 
 This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Attended virtually.
 
-[Download poster here](comet-delivery-poster-munich)
+[Download poster here](http://richard17a.github.io/files/Comet_delivery_poster.pdf)
