@@ -14,10 +14,10 @@ redirect_from:
 Education
 ======
 * PhD Astronomy, University of Cambridge (2022-present)
-  * Supervisors: Dr Amy Bonsor, Dr Paul Rimmer
+  * Supervisors: [Dr Amy Bonsor](https://www.ast.cam.ac.uk/people/Amy.Bonsor), [Dr Paul Rimmer](https://www.phy.cam.ac.uk/staff/dr-paul-brandon-rimmer)
 * MPhys Physics, University of Oxford (2017-2021)
   * Project title: Gravitational radiation from black hole interactions in Keplerian discs
-  * Supvervisor: Prof. Steven Balbus
+  * Supvervisor: [Prof. Steven Balbus](https://www.physics.ox.ac.uk/our-people/balbus)
 
 Work experience
 ======
