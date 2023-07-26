@@ -8,7 +8,7 @@ date: 2023-06-21 00:00:00
 location: "Munich, DE"
 ---
 
-[Conference website](https://indico.physik.uni-muenchen.de/event/194/)
+(Molecular Origins of Life, Munich 2023](https://indico.physik.uni-muenchen.de/event/194/)
 
 This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Attended virtually.
 
