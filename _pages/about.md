@@ -19,4 +19,4 @@ I a member of 3 exciting research groups:
 
 Recent projects
 ======
-My most recent work was investigating the following question - [Can comets deliver prebiotic molecules to rocky exoplanets?](https://richard17a.github.io/publications/exoplanet-cometary-delivery-submitted.html) which has recently been submitted to Proceedings of the Royal Society A. I recently presented a poster on this project at [Molecular Origins of Life, Munich 2023](https://indico.physik.uni-muenchen.de/event/194/), which you can find [here!](https://richard17a.github.io/talks/2023-06-21-comet-delivery-poster.html)
+My most recent work was investigating the following question - [Can comets deliver prebiotic molecules to rocky exoplanets?](https://richard17a.github.io/publication/exoplanet-cometary-delivery-submitted.html) which has recently been submitted to Proceedings of the Royal Society A. I recently presented a poster on this project at [Molecular Origins of Life, Munich 2023](https://indico.physik.uni-muenchen.de/event/194/), which you can find [here!](https://richard17a.github.io/talks/2023-06-21-comet-delivery-poster.html)
