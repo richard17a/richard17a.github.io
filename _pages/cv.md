@@ -13,9 +13,9 @@ redirect_from:
 
 Education
 ======
-* PhD Astronomy, University of Cambridge, 2022-present
+* PhD Astronomy, University of Cambridge (2022-present)
   * Supervisors: Dr Amy Bonsor, Dr Paul Rimmer
-* MPhys Physics, University of Oxford, 2017-2021
+* MPhys Physics, University of Oxford (2017-2021)
   * Project title: Gravitational radiation from black hole interactions in Keplerian discs
   * Supvervisor: Prof. Steven Balbus
 
@@ -27,15 +27,14 @@ Work experience
 
 * Technology Analyst (August 2021 - November 2021)
   * Morgan Stanley, London UK
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Produced a virtual collaborative tool to facilitate various Agile ceremonies in a single application
+  * Passed a 4 month intensive technology certification
   
 Skills
 ======
 * Computing experience
-  * Python
-  * C
-  * \LaTeX
+  * Python, C
+  * $\LaTeX$
   * SQL
   * HTML, Angular, etc. (basic)
 * Skill 2
@@ -64,4 +63,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Access Officer, St Edmund Hall, University of Oxford ()
