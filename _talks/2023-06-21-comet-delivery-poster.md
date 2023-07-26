@@ -6,7 +6,6 @@ permalink: /talks/2023-06-21-comet-delivery-poster
 venue: "Ludwig Maximilian University of Munich"
 date: 2023-06-21 00:00:00
 location: "Munich, DE"
-Virtual attendance
 ---
 
 [Molecular Origins of Life, Munich 2023](https://indico.physik.uni-muenchen.de/event/194/)
