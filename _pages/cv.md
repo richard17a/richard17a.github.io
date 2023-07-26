@@ -37,11 +37,6 @@ Skills
   * $\LaTeX$
   * SQL
   * HTML, Angular, etc. (basic)
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -63,4 +58,5 @@ Teaching
   
 Service and leadership
 ======
-* Access Officer, St Edmund Hall, University of Oxford ()
+* Access Officer (December 2018 - December 2019)
+  * St Edmund Hall, University of Oxford
