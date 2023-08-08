@@ -10,6 +10,6 @@ location: "Munich, DE"
 
 [Molecular Origins of Life, Munich 2023](https://indico.physik.uni-muenchen.de/event/194/)
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post.
+poster description
 
 [Download poster here](http://richard17a.github.io/files/Comet_delivery_poster.pdf)
