@@ -1,7 +1,7 @@
 ---
 title: 'Reflections on a first year'
 date: 2034-08-17
-permalink: /blog-osts/first-year-reflections/
+permalink: /blog-posts/first-year-reflections/
 tags:
   - PhD
 ---
