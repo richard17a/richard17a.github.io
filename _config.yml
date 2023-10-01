@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Richard Anslow"
-  avatar           : "richard.pdf"
+  avatar           : "images/richard.png"
   bio              : "PhD Student, Institute of Astronomy, University of Cambridge"
   location         : "Cambridge, UK"
   employer         :
