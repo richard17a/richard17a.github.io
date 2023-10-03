@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Richard, a 1st year PhD student at the [Institute of Astronomy](https://www.ast.cam.ac.uk). I am interested in planetary dynamics and its applications to planetary habitability and post-main sequence planetary systems. I am also interested in Astrobiology and understanding the role of impacts in origins of life scenarios. [Here's map of places I've given a talk!](https://richard17a.github.io/talkmap.html)
+Hello! I am Richard, a 2nd year PhD student at the [Institute of Astronomy](https://www.ast.cam.ac.uk). I am interested in planetary dynamics and its applications to planetary habitability and post-main sequence planetary systems. I am also interested in Astrobiology and understanding the role of impacts in origins of life scenarios. [Here's map of places I've given a talk!](https://richard17a.github.io/talkmap.html)
 
 Research groups
 ======
