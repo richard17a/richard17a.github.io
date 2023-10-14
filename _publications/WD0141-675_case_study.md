@@ -8,6 +8,6 @@ citation: 'Rogers L. K. (accepted). &quot;WD0141-675: A case study on how to fol
 ---
 This work demonstrates how combining astrometric data with spectroscopic and photometric data is crucial to confirm and characterise astrometric planet candidates arounnd white dwarfs.
 
-[Link to paper](https://arxiv.org/abs/2310.05778)
+[Link to paper](https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stad3098/7313625)
 
 <!-- Recommended citation: Anslow R. J.,  Bonsor A., Rimmer, P. B. (subm.). "Can comets deliver prebiotic molecules to rocky exoplanets?" <i>Proceedings of the Royal Society A</i>.  -->
