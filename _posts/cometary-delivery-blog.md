@@ -1,7 +1,7 @@
 ---
 title: 'Summary: Can comets deliver prebiotic molecules to rocky exoplanets?'
 date: 2023-11-15
-permalink: /blog-posts/cometary_delivery_blog/
+permalink: /blog-posts/cometary-delivery-blog/
 tags:
   - Planetary dynamics
   - Comets
