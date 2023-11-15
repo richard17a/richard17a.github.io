@@ -1,4 +1,5 @@
 ---
+layout: single
 title: 'Reflections on a first year'
 date: 2023-08-17
 permalink: /blog-posts/first-year-reflection/
