@@ -2,7 +2,7 @@
 layout: single
 title: 'Reflections on a first year'
 date: 2023-08-17
-permalink: /posts/first-year-reflection/
+permalink: /blog-posts/first-year-reflection/
 tags:
   - PhD
 ---
