@@ -6,7 +6,7 @@ date: 2023-11-15
 excerpt: 'This paper is about the cometary delivery of prebiotic molecules to rocky exoplanets…'
 venue: 'Proceedings of the Royal Society A'
 paperurl: 'http://doi.org/10.1098/rspa.2023.0434'
-citation: 'Anslow R. J.,  Bonsor A. and Rimmer P. B. 2023 Can comets deliver prebiotic molecules to rocky exoplanets? <i>Proc. R. Soc. A.</i> <b>479:</b>20230434.'
+citation: 'Anslow R. J.,  Bonsor A. and Rimmer P. B. 2023 Can comets deliver prebiotic molecules to rocky exoplanets? <i>Proc. R. Soc. A.</i> <b>479:</b> 20230434.'
 ---
 This paper is about the cometary delivery of prebiotic molecules to rocky exoplanets… 
 
