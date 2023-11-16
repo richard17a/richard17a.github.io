@@ -11,7 +11,7 @@ tags:
   - Origins of life
 ---
 
-Talk about recent paper here...
+Talk about recent paper here... which is found at [http://doi.org/10.1098/rspa.2023.0434](http://doi.org/10.1098/rspa.2023.0434).
 
 <script src="https://giscus.app/client.js"
         data-repo="richard17a/richard17a.github.io"
