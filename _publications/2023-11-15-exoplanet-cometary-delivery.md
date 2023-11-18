@@ -11,3 +11,5 @@ citation: 'Anslow RJ,  Bonsor A and Rimmer PB 2023 Can comets deliver prebiotic 
 This paper is about the cometary delivery of prebiotic molecules to rocky exoplanets… 
 
 [NASA ADS record](https://ui.adsabs.harvard.edu/abs/2023arXiv231012906A/abstract)
+
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="156446050"></div>
