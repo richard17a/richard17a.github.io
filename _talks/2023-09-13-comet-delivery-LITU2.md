@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2023-09-13-comet-delivery-LITU2
 venue: "American Academy of Arts and Sciences"
-date: 2023-08-08 00:00:00
+date: 2023-09-13 00:00:00
 location: "Boston, USA"
 ---
 
