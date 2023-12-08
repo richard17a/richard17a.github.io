@@ -10,7 +10,7 @@ tags:
 ---
 
 <!-- ![teaching_PSD](/images/teaching_PSD.png) -->
-<img src="/images/teaching_PSD.png" alt="Blackboards with physics on them." width="50%" height="auto">
+<img src="/images/teaching_PSD.png" alt="Blackboards with physics on them." width="50%" height="25%">
 
 Teaching is hard!
 
