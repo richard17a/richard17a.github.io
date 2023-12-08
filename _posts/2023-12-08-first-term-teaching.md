@@ -9,7 +9,7 @@ tags:
   - Planetary dynamics
 ---
 
-![teaching_PSD](/Users/richardanslow/Documents/Cambridge/richard17a.github.io/images/teaching_PSD.png)
+![teaching_PSD](/images/teaching_PSD.png)
 
 Teaching is hard!
 
