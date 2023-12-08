@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 'Summary: Can comets deliver prebiotic molecules to rocky exoplanets?'
+title: 'My first experiences of teaching'
 date: 2023-12-08
 permalink: /blog-posts/first-term-teaching/
 tags:
@@ -9,7 +9,7 @@ tags:
   - Planetary dynamics
 ---
 
-![teaching_PSD](teaching_PSD.png)
+![teaching_PSD](/Users/richardanslow/Documents/Cambridge/richard17a.github.io/teaching_PSD.png)
 
 Teaching is hard!
 
