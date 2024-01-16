@@ -2,7 +2,7 @@
 title: "Can comets deliver prebiotic molecules to rocky exoplanets?"
 collection: news
 type: "Poster"
-permalink: /news/2023-06-21-comet-delivery-poster
+permalink: /news/2023-11-15-comet-delivery-published
 venue: "Ludwig Maximilian University of Munich"
 date: 2023-06-21 00:00:00
 location: "Munich, DE"
