@@ -2,6 +2,7 @@
 layout: archive
 title: "Latest News"
 permalink: /news/
+date: 2023-11-15 00:00:00
 author_profile: true
 ---
 
