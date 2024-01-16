@@ -1,8 +1,15 @@
 ---
-title: "Journal paper on cometary delivery to rocky exoplanets published!"
+title: "Can comets deliver prebiotic molecules to rocky exoplanets?"
 collection: news
-permalink: /news/comet-delivery-published
+type: "Poster"
+permalink: /news/2023-06-21-comet-delivery-poster
+venue: "Ludwig Maximilian University of Munich"
+date: 2023-06-21 00:00:00
+location: "Munich, DE"
 ---
-This paper is about the cometary delivery of prebiotic molecules to rocky exoplanets…  test change
 
-<!-- [NASA ADS record](https://ui.adsabs.harvard.edu/abs/2023arXiv231012906A/abstract) -->
+[Molecular Origins of Life, Munich 2023](https://indico.physik.uni-muenchen.de/event/194/)
+
+poster description
+
+[Download poster here](http://richard17a.github.io/files/Comet_delivery_poster.pdf)
