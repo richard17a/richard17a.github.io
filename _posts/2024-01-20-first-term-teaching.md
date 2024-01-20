@@ -20,7 +20,7 @@ The flip side of this however, was then helping the students see the bigger pict
 And this is not to mention the time spent preparing for the classes, and marking the work. On a purely selfish level however, the process of preparing for the classes definitely improved my own understanding of the material (staying ahead of the very bright students made sure of that!). Perhaps that is value for money after all?
 
 I have since spent lots of time thinking about the differences between the American system, in which grades seem to bunch in the 80-100% range, and the British system in which it's a job well done if you get only 70%. The incentives seem confusing (at best) in the British system, in which it is not seriously encouraged to aim for 100%. Indeed, it is common to even gloss over whole sections of a course, knowing you only need 70% for a 1st. 
-The incentives appear much clearer in the American system, which seemingly requires you to master the whole course, which surely that must be a good thing? However, restricting yourself to such a small fraction of the available marks seems perverse, and must make differentiating attainment difficult, and inherently stochastic. 
+The incentives appear much clearer in the American system, which seemingly requires you to master the whole course, which surely must be a good thing? However, restricting yourself to such a small fraction of the available marks seems perverse, and must make differentiating attainment difficult, and inherently stochastic. 
 
 1 term of teaching has allowed me at least to articulate these thoughts, but leaves me some way short of knowing what really to make of it. In any case, each camp is well entrenched at this point, so I have plenty of time to think...  
 
