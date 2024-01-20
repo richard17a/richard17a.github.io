@@ -21,7 +21,7 @@ And this is not to mention the time spent preparing for the classes, and marking
 
 I have since spent lots of time thinking about the differences between the American system, in which grades seem to bunch in the range 80-100%, and the British system in which you can call it a job well done if you get only 70% of the questions correct. The incentives seem confusing (at best) in the British system, in which it is not seriously encouraged to aim for 100%. Indeed, it is common even to gloss over whole sections of a course, knowing you only need 70% for a 1st. At the surface level, the American system encourages you to master the whole course, and surely that must be a good thing? However, restricting yourself to such a small fraction of the available marks seems perverse, which must make differentiating attainment difficult, and inherently stochastic.
 
-8 weeks of teaching has allowed me at most to articulate these thoughts, but leaves me some way short of knowing what really to make of it. In any case, each camp is well entrenched at this point, and so I have plenty of time to think... 
+8 weeks of teaching has allowed me at most to articulate these thoughts, but leaves me some way short of knowing what really to make of it. In any case, each camp is well entrenched at this point, so I have plenty of time to think... 
 
 <script src="https://giscus.app/client.js"
         data-repo="richard17a/richard17a.github.io"
