@@ -2,12 +2,12 @@
 title: "WD0141-675: A case study on how to follow-up astrometric planet candidates around white dwarfs"
 collection: publications
 permalink: /publication/WD0141-675-case-study
+date: 2024-01-01
 excerpt: 'This work demonstrates how combining astrometric data with spectroscopic and photometric data is crucial to confirm and characterise astrometric planet candidates arounnd white dwarfs.'
-venue: 'MNRAS'
-citation: 'Rogers L. K. et al., <i>Monthly Notices of the Royal Astronomical Society</i>, 2023;, stad3098, https://doi.org/10.1093/mnras/stad3098'
+venue: 'Monthly Notices of the Royal Astronomical Society'
+paperurl: 'https://doi.org/10.1093/mnras/stad3098'
+citation: 'Rogers L. K. et al. 2024 WD 0141−675: a case study on how to follow-up astrometric planet candidates around white dwarfs <i>Monthly Notices of the Royal Astronomical Society</i> <b>527</b>, 977–990
 ---
-This work demonstrates how combining astrometric data with spectroscopic and photometric data is crucial to confirm and characterise astrometric planet candidates arounnd white dwarfs.
+This work demonstrates how combining astrometric data with spectroscopic and photometric data is crucial to confirm and characterise astrometric planet candidates around white dwarfs.
 
-[Link to paper](https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stad3098/7313625)
-
-<!-- Recommended citation: Anslow R. J.,  Bonsor A., Rimmer, P. B. (subm.). "Can comets deliver prebiotic molecules to rocky exoplanets?" <i>Proceedings of the Royal Society A</i>.  -->
+[NASA ADS record](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527..977R/abstract)
