@@ -21,7 +21,7 @@ And this is not to mention the time spent preparing for the classes, and marking
 
 I have since spent lots of time thinking about the, slightly strange, British higher education system. Particularly how it's all examined at the end - a job well done if you get past 70%? This is of course in total contrast to the, maybe also slightly strange, American system in which grades all seem to bunch in the 80-100% range.
 
-The incentives seem confusing (at best) in the British system, in which it is not seriously encouraged to aim for 100%. Indeed, it is common to even gloss over whole sections of a course, knowing you only need 70% for a 1st. Things seem much clearer in the American system, seemingly requiring you to master the whole course. This must surely be a good thing? But, restricting yourself to such a small range of the available marks seems perverse, and must make differentiating attainment difficult given the small margins for error.
+The incentives seem confusing (at best) in the British system, in which it is not seriously encouraged to aim for 100%. Indeed, it is common to even gloss over whole sections of a course, knowing you only need 70% for a 1st. Would it not be more enjoyable to finish a course, and reach the point where it all fits together in your mind, rather than stopping 70% of the way there? Maybe this would even be an encouragement to think of the bigger picture.
 
 1 term of teaching has allowed me at least to articulate these thoughts, but leaves me some way short of knowing what really to make of it. In any case, each camp is well entrenched at this point, which leaves me plenty of time to think...  
 
