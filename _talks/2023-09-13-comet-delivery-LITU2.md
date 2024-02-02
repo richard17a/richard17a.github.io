@@ -1,7 +1,7 @@
 ---
 title: "Can comets deliver prebiotic molecules to rocky exoplanets?"
 collection: talks
-type: "Poster"
+type: "Invited Poster"
 permalink: /talks/2023-09-13-comet-delivery-LITU2
 venue: "American Academy of Arts and Sciences"
 date: 2023-09-13 00:00:00
