@@ -9,4 +9,4 @@ citation: 'Anslow RJ,  Bonsor A,  Rimmer PB, Rae ASP, McDonald C, Walton CR. The
 
 This has been recently submitted to the journal - please get in touch if you have any comments, ideas, or would like a copy of the submitted manuscript!
 
-[See more here](./files/double_impact_abstract.pdf)
+[See more here](../files/double_impact_abstract.pdf)
