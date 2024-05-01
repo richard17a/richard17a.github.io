@@ -19,4 +19,7 @@ I am a member of 3 exciting research groups:
 
 Recent projects
 ======
-My most recent work was investigating the following question - [Can comets deliver prebiotic molecules to rocky exoplanets?](https://richard17a.github.io/publication/exoplanet-cometary-delivery.html) which has recently been published in the Proceedings of the Royal Society A. See the University of Cambridge press release [here.](https://www.cam.ac.uk/research/news/bouncing-comets-could-deliver-building-blocks-for-life-to-exoplanets) I recently presented a poster on this project at [Molecular Origins of Life, Munich 2023](https://indico.physik.uni-muenchen.de/event/194/), which you can find [here!](https://richard17a.github.io/talks/2023-06-21-comet-delivery-poster.html)
+My most recent work evaluated origins scenarios that require multiple impacts in a single location, an attractive way to produce cyanide, cyanamde and cyanoacetylene. We modelled the atmospheric entry of cometary impactors, and used the crater record to constrain the number of overlapping craters on the early-Earth - [read more here](https://richard17a.github.io/publication/double-impacts).
+
+Before this, we investigated the cometary delivery of prebiotic molecules to rocky exoplanets - [see more here](https://richard17a.github.io/publication/exoplanet-cometary-delivery.html). This publication was accompanied by a University of Cambridge [press release](https://www.cam.ac.uk/research/news/bouncing-comets-could-deliver-building-blocks-for-life-to-exoplanets). 
+<!--I recently presented a poster on this project at [Molecular Origins of Life, Munich 2023](https://indico.physik.uni-muenchen.de/event/194/), which you can find [here!](https://richard17a.github.io/talks/2023-06-21-comet-delivery-poster.html)-->
