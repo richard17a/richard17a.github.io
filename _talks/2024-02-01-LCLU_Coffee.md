@@ -2,7 +2,7 @@
 title: "The accretion of small impactors to the early-Earth and rocky exoplanets"
 collection: talks
 type: "Invited Seminar"
-permalink: /talks/2023-09-13-comet-delivery-LITU2
+permalink: /talks/2024-02-01-comet-delivery-LCLU-coffee
 venue: "University of Cambridge"
 date: 2024-02-01 00:00:00
 location: "Cambridge, UK"
