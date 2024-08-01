@@ -12,4 +12,4 @@ This paper is about the cometary delivery of prebiotic molecules to rocky exopla
 
 [NASA ADS record](https://ui.adsabs.harvard.edu/abs/2023arXiv231012906A/abstract)
 
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover='bottom' data-badge-type="donut" data-altmetric-id="155569885"></div>  <span class="__dimensions_badge_embed__" data-doi="10.1098/rspa.2023.0434" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover='right' data-badge-type="donut" data-altmetric-id="155569885"></div>  <span class="__dimensions_badge_embed__" data-doi="10.1098/rspa.2023.0434" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
