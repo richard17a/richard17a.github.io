@@ -22,8 +22,8 @@ horizontal: false
     </div>
     <br>
     <ul>
-      <li class="font-weight:200">Masters-level course covering the application of celestial mechancics to the Solar System, and extrasolar planetary systems: taught by <a href="https://www.ast.cam.ac.uk/people/Mark.Wyatt">Mark Wyatt</a>.</li>
-      <li class="font-weight:200">Course overview: <a href="/assets/pdf/teaching/PSD_overview.pdf">description</a>.</li>
+      <li class="font-weight:100">Masters-level course covering the application of celestial mechancics to the Solar System, and extrasolar planetary systems: taught by <a href="https://www.ast.cam.ac.uk/people/Mark.Wyatt">Mark Wyatt</a>.</li>
+      <li class="font-weight:100">Course overview: <a href="/assets/pdf/teaching/PSD_overview.pdf">description</a>.</li>
     </ul>
   </div>
 </div>
@@ -40,9 +40,9 @@ horizontal: false
     </div>
     <br>
     <ul>
-      <li class="font-weight:200">Taught MPhil covering the requirements for life’s origins from its astrophysical beginnings to the emergence of biospheres.</li>
-      <li class="font-weight:200">Weekly Reading Group.</li>
-      <li class="font-weight:200">Astrophysics Practicals.</li>
+      <li class="font-weight:100">Taught MPhil covering the requirements for life’s origins from its astrophysical beginnings to the emergence of biospheres.</li>
+      <li class="font-weight:100">Weekly Reading Group: <a href="#">example slides</a>..</li>
+      <li class="font-weight:100">Astrophysics Practicals: Instability in planetary systems; SED fitting (debris disks).</li>
     </ul>
   </div>
 </div>
