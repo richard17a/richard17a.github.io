@@ -13,7 +13,7 @@ horizontal: false
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
-      <div class="col-sm-10">
+      <div class="row-cols-md-3">
         <h5 class="font-weight-bold">Part III Planetary System Dynamics</h5>
       </div>
     </div>
