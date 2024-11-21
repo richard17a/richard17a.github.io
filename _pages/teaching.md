@@ -35,10 +35,12 @@ horizontal: false
         <h6 class="card-subtitle font-italic">Michaelmas 2023 & 2024: Examples Class Instructor (DAMTP)</h6>
       </div>
     </div>
+    <br>
     <div class="row">
       <div class="col-sm-10">
-        <h7>Masters-level course covering the application of celestial mechancics to the Solar System, and extrasolar planetary systems, taught by <a href="https://www.ast.cam.ac.uk/people/Mark.Wyatt">Mark Wyatt</a>.</h7>
-        <h7>Course overview: <a href="/assets/pdf/teaching/PSD_overview.pdf">description</a>.</h7>
+        <p>Masters-level course covering the application of celestial mechancics to the Solar System, and extrasolar planetary systems, taught by <a href="https://www.ast.cam.ac.uk/people/Mark.Wyatt">Mark Wyatt</a>.</p>
+        <br>
+        <p>Course overview: <a href="/assets/pdf/teaching/PSD_overview.pdf">description</a>.</p>
       </div>
     </div>
   </div>
