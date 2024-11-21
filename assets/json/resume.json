@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Richard J. Anslow",
-    "label": "Scientist",
+    "label": "PhD Student",
     "image": "",
     "email": "rja92@ast.cam.ac.uk",
     "phone": "(+44) 7807 118287",
@@ -11,27 +11,20 @@
       "postalCode": "CB3 0HA",
       "city": "Cambridge",
       "countryCode": "UK"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    }
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Institute of Astronomy, University of Cambridge",
+      "position": "PhD Student",
+      "url": "https://www.ast.cam.ac.uk",
+      "startDate": "2022-10-01",
+      "endDate": "present",
+      "summary": "Investigating the dynamics of small bodies in planetary systems, and the consequences of their impacts on the habitability of terrestrial (exo)planets.",
+      "highlights": ["Supervisors: Dr Amy Bonsor & Dr Paul Rimmer"]
     }
   ],
-  "acadmic service and outreach": [
+  "academic service and outreach": [
     {
       "organization": "People's Climate March",
       "location": "Zurich, Switzerland",
@@ -45,15 +38,24 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Institute of Astronomy, University of Cambridge",
+      "location": "Cambridge, UK",
+      "url": "https://www.ast.cam.ac.uk",
+      "area": "Astronomy",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2021-10-01",
+      "endDate": "present"
+    },
+    {
+      "institution": "St Edmund Hall, University of Oxford",
+      "location": "Oxford, UK",
+      "url": "https://www.uzh.ch/",
+      "area": "Physics",
+      "studyType": "MPhys",
+      "startDate": "2017-10-01",
+      "endDate": "2021-07-01",
+      "score": "1st Class",
+      "courses": ["Astrophysics (Part C), Atmospheric & Oceanic Physics (Part C)"]
     }
   ],
   "awards": [
