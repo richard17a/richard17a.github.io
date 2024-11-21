@@ -36,16 +36,9 @@ horizontal: false
       </div>
     </div>
     <br>
-    <!-- <div class="row">
-      <div class="col-sm-10">
-        <p>Masters-level course covering the application of celestial mechancics to the Solar System, and extrasolar planetary systems, taught by <a href="https://www.ast.cam.ac.uk/people/Mark.Wyatt">Mark Wyatt</a>.</p>
-        <br>
-        <p>Course overview: <a href="/assets/pdf/teaching/PSD_overview.pdf">description</a>.</p>
-      </div>
-    </div> -->
     <ul>
-      <li>Masters-level course covering the application of celestial mechancics to the Solar System, and extrasolar planetary systems, taught by <a href="https://www.ast.cam.ac.uk/people/Mark.Wyatt">Mark Wyatt</a>.</li>
-      <li>Course overview: <a href="/assets/pdf/teaching/PSD_overview.pdf">description</a>.</li>
+      <li class="font-italic">Masters-level course covering the application of celestial mechancics to the Solar System, and extrasolar planetary systems: taught by <a href="https://www.ast.cam.ac.uk/people/Mark.Wyatt">Mark Wyatt</a>.</li>
+      <li class="font-italic">Course overview: <a href="/assets/pdf/teaching/PSD_overview.pdf">description</a>.</li>
     </ul>
   </div>
 </div>
