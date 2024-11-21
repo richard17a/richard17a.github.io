@@ -9,7 +9,7 @@ horizontal: false
 ---
 
 <h3 class="mt-4">University of Cambridge</h3>
-
+<!-- 
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
@@ -23,4 +23,4 @@ horizontal: false
       <li class="list-group-item mt-2 mt-sm-0">— Course overview: <a href="/assets/pdf/teaching/PSD_overview.pdf">description</a>.</li>
     </ul>
   </div>
-</div>
+</div> -->
