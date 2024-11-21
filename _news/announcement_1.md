@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-09-23 14:03:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+<a href="/assets/pdf/comet_delivery_exoplanets.pdf">Paper</a> accepted investigating cometary delivery to rocky exoplanets! 

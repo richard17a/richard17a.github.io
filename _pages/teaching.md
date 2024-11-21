@@ -41,7 +41,7 @@ horizontal: false
     <br>
     <ul>
       <li class="font-weight:100">Taught MPhil covering the requirements for life’s origins from its astrophysical beginnings to the emergence of biospheres.</li>
-      <li class="font-weight:100">Weekly Reading Group: <a href="#">example slides</a>..</li>
+      <li class="font-weight:100">Weekly Reading Group: <a href="#">example slides</a>.</li>
       <li class="font-weight:100">Astrophysics Practicals: Instability in planetary systems; SED fitting (debris disks).</li>
     </ul>
   </div>
