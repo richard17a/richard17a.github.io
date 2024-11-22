@@ -1,33 +1,44 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: New submission - Investigating the delivery of HSEs to Earth during the Late Veneer
+date: 2024-11-20 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+I'm super excited about this new paper, submitted to EPSL, which uses both astrophysical and geodynamical arguments to investigate the origins of Earth's HSEs, and the implications for mass accretion during the late veneer. Send me an <a href="#">email</a> if you want a preprint!
 
 ---
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
-
-#### Hipster list
-
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
-
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+> The efficient delivery of highly-siderophile elements to the core creates a mass accretion catastrophe for the Earth
 
 ---
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+Richard J. Anslow, Maylis Landeau, Amy Bonsor, Jonathan Itcovitz, Oliver Shorttle
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
+---
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+Abstract:
+
+The excess abundance of highly siderophile elements (HSEs), as inferred for
+the terrestrial planets and the Moon, is thought to record a ‘late veneer’
+of impacts after the giant impact phase of planet formation. Estimates for
+total mass accretion during this period typically assume all HSEs delivered
+remain entrained in the mantle. Here, we present an analytical discussion of
+the fate of liquid metal diapirs in both a magma pond and a solid mantle, and
+show that metals from impactors larger than approximately 1 km will sink
+to Earth’s core, leaving no HSE signature in the mantle. However, by considering 
+a collisional size distribution, we show that to deliver sufficient mass
+in small impactors to account for Earth’s HSEs, there will be an implausibly
+large mass delivered by larger bodies, the metallic fraction of which lost to
+Earth’s core. There is therefore a contradiction between observed concentrations
+of HSEs, the geodynamics of metal entrainment, and estimates of total
+mass accretion during the late veneer. To resolve this paradox, and avoid
+such a mass accretion catastrophe, our results suggest that large impactors
+must contribute to observed HSE signatures. For these HSEs to be entrained
+in the mantle, either some mechanism(s) must efficiently disrupt impactor
+core material into ≤0.01 mm fragments, or alternatively Earth accreted a
+significant mass fraction of oxidised (carbonaceous chondrite-like) material
+during the late veneer. Estimates of total mass accretion accordingly remain
+unconstrained, given uncertainty in both the efficiency of impactor core 
+fragmentation, and the chemical composition of the late veneer.
