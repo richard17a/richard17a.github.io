@@ -6,6 +6,11 @@ description: classes, workshops, and teaching material
 nav: true
 nav_order: 6
 horizontal: false
+
+profile:
+  align: right
+  image: teaching_PSD_class3.jpg
+  image_circular: false
 ---
 
 ---
