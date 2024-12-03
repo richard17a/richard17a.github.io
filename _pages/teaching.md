@@ -20,7 +20,7 @@ horizontal: false
 </style>
 
 <div id="teaching-header">
-  <h1>teaching</h1>
+  <!-- <h1>teaching</h1> -->
   <p>classes, workshops, and teaching material</p>
 </div>
 
