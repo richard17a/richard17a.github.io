@@ -6,12 +6,23 @@ description: classes, workshops, and teaching material
 nav: true
 nav_order: 6
 horizontal: false
-
-profile:
-  align: right
-  image: teaching_PSD_class3.jpg
-  image_circular: false
 ---
+
+<style>
+#teaching-header {
+  background-image: url('/assets/images/teaching_PSD_class3.jpg'); /* Replace with your image path */
+  background-size: cover;
+  background-position: center;
+  color: white; /* Adjust text color to stand out */
+  text-align: center;
+  padding: 50px 20px; /* Adjust padding as needed */
+}
+</style>
+
+<div id="teaching-header">
+  <h1>teaching</h1>
+  <p>classes, workshops, and teaching material</p>
+</div>
 
 ---
 <h3 class="mt-4">University of Cambridge</h3>
