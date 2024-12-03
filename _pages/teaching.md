@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: classes, workshops, and teaching material
+# title: teaching
+# description: classes, workshops, and teaching material
 nav: true
 nav_order: 6
 horizontal: false
@@ -10,11 +10,11 @@ horizontal: false
 
 <style>
 #teaching-header {
-  background-image: url('/assets/images/teaching_PSD_class3.jpg'); /* Replace with your image path */
+  background-image: url('/assets/img/teaching_PSD_class3.jpg');
   background-size: cover;
   background-position: center;
   color: white; /* Adjust text color to stand out */
-  text-align: center;
+  text-align: left;
   padding: 50px 20px; /* Adjust padding as needed */
 }
 </style>
