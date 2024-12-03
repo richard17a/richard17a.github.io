@@ -15,7 +15,7 @@ horizontal: false
   background-position: center;
   color: white; /* Adjust text color to stand out */
   text-align: left;
-  padding: 50px 20px; /* Adjust padding as needed */
+  padding: 50px 50px; /* Adjust padding as needed */
 }
 </style>
 
