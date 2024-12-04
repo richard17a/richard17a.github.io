@@ -43,7 +43,8 @@
       "area": "Supervisors: Dr Amy Bonsor & Dr Paul Rimmer",
       "studyType": "PhD",
       "startDate": "2022-10-01",
-      "endDate": "present"
+      "endDate": "present",
+      "courses": ["Late accretion to the early Earth, and rocky exoplanets"]
     },
     {
       "institution": "St Edmund Hall, University of Oxford",
@@ -85,22 +86,21 @@
       "publisher": "Proceedings of the Royal Society of London Series A",
       "releaseDate": "2023-11-15",
       "url": "https://royalsocietypublishing.org/doi/10.1098/rspa.2023.0434",
-      "summary": "Summary"
-      // "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "summary": "The cometary delivery of prebiotic feedstock molecules requires impacts at very low velocity. In this work, we use both an analytical model and N-body simulations, to show that the lowest velocity impacts occur in tightly packed planetary systems around high-mass (i.e., Solar-mass) stars."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "The plausibility of origins scenarios requiring two impactors",
+      "publisher": "Proceedings of the Royal Society of London Series A (in press)",
+      "releaseDate": "2024-11-18",
+      "url": "https://ui.adsabs.harvard.edu/abs/2024arXiv241111578A/abstract",
+      "summary": "One potential way to achieve the conditions required for several prebiotic chemical scenarios, is via the cometary delivery of hydrogen cyanide, followed by the collision of a secondary, smaller body. Here, we demonstrate, using constraints on Earth's early bombardment, that these scenarios are extremely unlikely after 4.0Gya."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "WD 0141-675: a case study of how to follow-up astrometric planet candidates around white dwarfs",
+      "publisher": "Monthly Notices of the Royal Astronomical Society",
+      "releaseDate": "2023-10-13",
+      "url": "https://academic.oup.com/mnras/article/527/1/977/7313625",
+      "summary": "This work combines spectroscopic and photometric data of the polluted white dwarf WD 0141−675, which has a now retracted astrometric super-Jupiter candidate, and investigates the most promising ways to confirm Gaia astrometric planetary candidates and obtain follow-up data."
     }
   ],
   "languages": [
