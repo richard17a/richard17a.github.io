@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Paper submitted on the atmospheric entry of comets
-date: 2025-02-04 16:11:00-0400
+date: 2025-02-04 00:00:01-0400
 inline: false
 related_posts: false
 ---
