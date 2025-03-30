@@ -82,18 +82,25 @@
   ],
   "publications": [
     {
+      "name": "The atmospheric entry of cometary impactors",
+      "publisher": "Monthly Notices of the Royal Astronomical Society",
+      "releaseDate": "2025-03-27",
+      "url": "https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/staf507/8098221",
+      "summary": "Here, we present a numerical model for the interaction of weak, low-density cometary impactors with planetary atmospheres, which includes semi-analytical parameterisations for the ablation, deformation, and fragmentation of comets."
+    },
+    {
+      "name": "The plausibility of origins scenarios requiring two impactors",
+      "publisher": "Proceedings of the Royal Society of London Series A",
+      "releaseDate": "2025-01-29",
+      "url": "https://royalsocietypublishing.org/doi/10.1098/rspa.2024.0327",
+      "summary": "One potential way to achieve the conditions required for several prebiotic chemical scenarios, is via the cometary delivery of hydrogen cyanide, followed by the collision of a secondary, smaller body. Here, we demonstrate, using constraints on Earth's early bombardment, that these scenarios are extremely unlikely after 4.0Gya."
+    },
+    {
       "name": "Can comets deliver prebiotic molecules to rocky exoplanets?",
       "publisher": "Proceedings of the Royal Society of London Series A",
       "releaseDate": "2023-11-15",
       "url": "https://royalsocietypublishing.org/doi/10.1098/rspa.2023.0434",
       "summary": "The cometary delivery of prebiotic feedstock molecules requires impacts at very low velocity. In this work, we use both an analytical model and N-body simulations, to show that the lowest velocity impacts occur in tightly packed planetary systems around high-mass (i.e., Solar-mass) stars."
-    },
-    {
-      "name": "The plausibility of origins scenarios requiring two impactors",
-      "publisher": "Proceedings of the Royal Society of London Series A (in press)",
-      "releaseDate": "2025-01-29",
-      "url": "https://royalsocietypublishing.org/doi/10.1098/rspa.2024.0327",
-      "summary": "One potential way to achieve the conditions required for several prebiotic chemical scenarios, is via the cometary delivery of hydrogen cyanide, followed by the collision of a secondary, smaller body. Here, we demonstrate, using constraints on Earth's early bombardment, that these scenarios are extremely unlikely after 4.0Gya."
     },
     {
       "name": "WD 0141-675: a case study of how to follow-up astrometric planet candidates around white dwarfs",
