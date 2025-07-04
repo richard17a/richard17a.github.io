@@ -82,6 +82,13 @@
   ],
   "publications": [
     {
+      "name": "Constraining the survival of HCN during cometary impacts",
+      "publisher": "Icarus",
+      "releaseDate": "2025-06-29",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0019103525002519?via%3Dihub",
+      "summary": "This work revisits the prospects for cometary delivery of HCN through new impact simulations of idealised cometary bodies using the shock physics code iSALE combined with simple chemical modelling."
+    },
+    {
       "name": "The atmospheric entry of cometary impactors",
       "publisher": "Monthly Notices of the Royal Astronomical Society",
       "releaseDate": "2025-03-27",
