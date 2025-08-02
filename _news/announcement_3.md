@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-I'm super excited about this new paper, submitted to EPSL, which uses both astrophysical and geodynamical arguments to investigate the origins of Earth's HSEs, and the implications for mass accretion during the late veneer. Send me an <a href="mailto:rja92@ast.cam.ac.uk">email</a> if you want a preprint!
+I'm super excited about this new paper, submitted to JGR: Planets, which uses both astrophysical and geodynamical arguments to investigate the origins of Earth's HSEs, and the implications for mass accretion during the late veneer. See <a href="https://essopenarchive.org/doi/full/10.22541/essoar.175395733.38785773/">here</a> for the preprint!
 
 ---
 
