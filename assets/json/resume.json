@@ -82,6 +82,13 @@
   ],
   "publications": [
     {
+      "name": "The efficient delivery of highly-siderophile elements to the core creates a mass accretion catastrophe for the Earth",
+      "publisher": "JGR: Planets",
+      "releaseDate": "in review",
+      "url": "https://essopenarchive.org/users/946417/articles/1320654-the-efficient-delivery-of-highly-siderophile-elements-to-the-core-creates-a-mass-accretion-catastrophe-for-the-earth?commit=5de0354535df5b5e9e6fe82c866b246891f4d332",
+      "summary": "This work uses both astrophysical and geodynamical arguments to investigate the origins of Earth’s HSEs, and discusses the implications for total mass accretion during the late veneer."
+    },
+    {
       "name": "Constraining the survival of HCN during cometary impacts",
       "publisher": "Icarus",
       "releaseDate": "2025-06-29",
