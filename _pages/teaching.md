@@ -33,7 +33,7 @@ horizontal: false
     <div class="row">
       <div class="col-sm-10">
         <h5 id="comp311" class="card-title">Planetary System Dynamics (Part III)</h5>
-        <h6 class="card-subtitle font-italic">Michaelmas 2023 & 2024: Examples Class Instructor (DAMTP)</h6>
+        <h6 class="card-subtitle font-italic">2023--2026: Examples Class Instructor (DAMTP)</h6>
       </div>
     </div>
     <br>
@@ -51,7 +51,7 @@ horizontal: false
     <div class="row">
       <div class="col-sm-10">
         <h5 id="comp311" class="card-title">Planetary Science and Life in the Universe (MPhil)</h5>
-        <h6 class="card-subtitle font-italic">Michaelmas-Lent 2024: Demonstrator (IoA)</h6>
+        <h6 class="card-subtitle font-italic">2024-2026: Senior Demonstrator (IoA)</h6>
       </div>
     </div>
     <br>
