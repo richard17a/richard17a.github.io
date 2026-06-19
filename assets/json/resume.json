@@ -44,7 +44,7 @@
       "studyType": "PhD",
       "startDate": "2022-10-01",
       "endDate": "2026-05-29",
-      "courses": ["Title: \"Late accretion to the early Earth, and rocky exoplanets\"", "My thesis, awarded without correction, can be found [here](https://www.repository.cam.ac.uk/bitstreams/eaec75c5-686a-4902-81e5-3105ee58d2e9/download)."]
+      "courses": ["Title: \"Late accretion to the early Earth, and rocky exoplanets\"", "My thesis, awarded without correction, can be found [here](https://www.repository.cam.ac.uk/items/05d8556f-8335-487e-afe5-eec25a67a972)."]
     },
     {
       "institution": "St Edmund Hall, University of Oxford",
@@ -77,14 +77,14 @@
       "date": "2019, 2020, 2021",
       "awarder": "St Edmund Hall, University of Oxford",
       "url": "https://www.seh.ox.ac.uk/study/undergraduate/undergraduate-finance/scholarships-and-prizes-undergraduates",
-      "summary": "Scholarship in recognition of academic performance (Part A, B, and C).'"
+      "summary": "Scholarship in recognition of academic performance (Part A, B, and C)."
     }
   ],
   "publications": [
     {
       "name": "The efficient delivery of highly-siderophile elements to the core creates a mass accretion catastrophe for the Earth",
       "publisher": "JGR: Planets",
-      "releaseDate": "2025-04-02",
+      "releaseDate": "2026-04-02",
       "url": "https://ui.adsabs.harvard.edu/abs/2026arXiv260317961A/abstract",
       "summary": "This work uses both astrophysical and geodynamical arguments to investigate the origins of Earth’s HSEs, and discusses the implications for total mass accretion during the late veneer."
     },
@@ -107,7 +107,7 @@
       "publisher": "Proceedings of the Royal Society of London Series A",
       "releaseDate": "2025-01-29",
       "url": "https://royalsocietypublishing.org/doi/10.1098/rspa.2024.0327",
-      "summary": "One potential way to achieve the conditions required for several prebiotic chemical scenarios, is via the cometary delivery of hydrogen cyanide, followed by the collision of a secondary, smaller body. Here, we demonstrate, using constraints on Earth's early bombardment, that these scenarios are extremely unlikely after 4.0Gya."
+      "summary": "One potential way to achieve the conditions required for several prebiotic chemical scenarios, is via the cometary delivery of hydrogen cyanide, followed by the collision of a secondary, smaller body. Here, we demonstrate, using constraints on Earth's early bombardment, that these scenarios are extremely unlikely after 4.0 Gya."
     },
     {
       "name": "Can comets deliver prebiotic molecules to rocky exoplanets?",
