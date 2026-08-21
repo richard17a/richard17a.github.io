@@ -33,7 +33,7 @@ horizontal: false
     <div class="row">
       <div class="col-sm-10">
         <h5 id="comp311" class="card-title">Planetary System Dynamics (Part III)</h5>
-        <h6 class="card-subtitle font-italic">2023--2026: Examples Class Instructor (DAMTP)</h6>
+        <h6 class="card-subtitle font-italic">2023-2026: Examples Class Instructor (DAMTP)</h6>
       </div>
     </div>
     <br>
