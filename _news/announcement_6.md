@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A new job and new paper in press!
-date: 2026-09-28 10:21:00-0400
+date: 2026-09-27 10:21:00-0400
 inline: false
 related_posts: false
 ---
