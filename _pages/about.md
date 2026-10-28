@@ -23,3 +23,4 @@ I am a Foundation Sea Level Scientist in the Climate, Cryosphere and Oceans grou
 My doctoral research, at the intersection of planetary science and astrobiology, focused on the dynamics of small bodies in planetary systems and the consequences of their impacts on the habitability of terrestrial (exo)planets. Recent work has investigated <<a href="/news/announcement_3/">the delivery of highly siderophile elements</a> to Earth's mantle during the 'late veneer', and the ability of comets to <a href="https://royalsocietypublishing.org/doi/10.1098/rspa.2023.0434">deliver prebiotic feedstock molecules</a> to the Earth and rocky exoplanets. For more details, please see my <a href="/publications/">publications</a>, or <a href="/cv/">CV</a>.
 
 If you interested in any of my work, please get in touch!
+
