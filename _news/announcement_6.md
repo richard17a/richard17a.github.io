@@ -8,7 +8,7 @@ related_posts: false
 
 September has been a busy month: I have moved from the East (Cambridge) to the South West (Exeter) of the UK, started a new job in Sea Level Science at the [Met Office](https://www.metoffice.gov.uk/research/climate/cryosphere-oceans), and just had a paper from my PhD accepted for publication in Scientific Reports!
 
-I am very excited about this recent paper, which builds upon several recent papers in the group to re-visit the longstanding hypothesis that an early period of cometary bombardment provided an important source of prebiotic feedstock molecules, responsible for the origins of life on Earth.
+I am very excited about this recent paper, which builds upon several recent papers in the group to re-visit the longstanding hypothesis that an early period of cometary bombardment provided an important source of prebiotic feedstock molecules, responsible for the origins of life on Earth. Listen to me discuss these results on BBC Radio 4's Today programme [here](https://www.bbc.co.uk/programmes/m0033g1v), and BBC World Service Newshour [here](https://www.bbc.co.uk/sounds/play/w1730bnbn7pw4xq)!
 
 ---
 
